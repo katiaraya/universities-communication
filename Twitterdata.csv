@@ -1,0 +1,730 @@
+﻿type,theme,time,day,eng,total.eng
+texte+lien+photo,Administration,Avant 9h,Saturday,348,Engagement très fort
+texte+photo,Identite,17h-19h,Tuesday,263,Engagement très fort
+texte+lien+photo,Identite,14h-17h,Tuesday,149,Engagement fort
+texte+photo,Relation,11h-14h,Tuesday,119,Engagement fort
+texte+photo,Relation,17h-19h,Saturday,111,Engagement fort
+texte+lien+photo,Identite,17h-19h,Friday,99,Engagement fort
+texte+video,Identite,Avant 9h,Tuesday,89,Engagement fort
+texte+lien,Administration,14h-17h,Friday,89,Engagement fort
+texte+video,Relation,17h-19h,Friday,87,Engagement fort
+texte+video,Relation,14h-17h,Friday,77,Engagement fort
+texte+lien,Information,11h-14h,Friday,75,Engagement fort
+texte+video,Identite,Après 19h,Thursday,74,Engagement fort
+texte+video,Identite,11h-14h,Saturday,72,Engagement fort
+texte,Identite,9h-11h,Saturday,67,Engagement fort
+texte+photo,Identite,9h-11h,Monday,65,Engagement fort
+texte+lien,Information,Après 19h,Thursday,57,Engagement fort
+texte+photo,Relation,11h-14h,Wednesday,54,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Monday,54,Engagement intermédiaire
+texte+lien,Relation,9h-11h,Tuesday,53,Engagement intermédiaire
+texte+photo,Information,14h-17h,Saturday,51,Engagement intermédiaire
+texte+lien,Administration,Avant 9h,Monday,49,Engagement intermédiaire
+texte+photo,Identite,11h-14h,Thursday,48,Engagement intermédiaire
+texte+lien,Administration,11h-14h,Monday,48,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Wednesday,47,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Tuesday,47,Engagement intermédiaire
+texte+lien+photo,Relation,14h-17h,Wednesday,47,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Monday,43,Engagement intermédiaire
+texte+photo,Identite,Avant 9h,Tuesday,43,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Thursday,42,Engagement intermédiaire
+texte+lien+photo,Administration,11h-14h,Monday,41,Engagement intermédiaire
+texte+lien,Information,11h-14h,Friday,39,Engagement intermédiaire
+texte+photo,Identite,14h-17h,Sunday,37,Engagement intermédiaire
+texte+photo,Identite,Après 19h,Wednesday,37,Engagement intermédiaire
+texte+lien+photo,Identite,17h-19h,Sunday,36,Engagement intermédiaire
+texte+photo,Relation,Avant 9h,Tuesday,36,Engagement intermédiaire
+texte+lien+photo,Relation,Avant 9h,Saturday,36,Engagement intermédiaire
+texte+video,Identite,11h-14h,Friday,36,Engagement intermédiaire
+texte,Identite,14h-17h,Thursday,35,Engagement intermédiaire
+texte+lien,Information,11h-14h,Monday,35,Engagement intermédiaire
+texte+lien,Administration,17h-19h,Friday,35,Engagement intermédiaire
+texte+photo,Identite,14h-17h,Friday,34,Engagement intermédiaire
+texte+photo,Identite,14h-17h,Thursday,34,Engagement intermédiaire
+texte+video,Identite,17h-19h,Monday,34,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Saturday,33,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Sunday,33,Engagement intermédiaire
+texte+lien,Administration,Avant 9h,Monday,32,Engagement intermédiaire
+texte+lien,Information,14h-17h,Wednesday,32,Engagement intermédiaire
+texte+video,Identite,14h-17h,Wednesday,32,Engagement intermédiaire
+texte+lien,Identite,Après 19h,Tuesday,32,Engagement intermédiaire
+texte+lien+photo,Identite,17h-19h,Thursday,32,Engagement intermédiaire
+texte+photo,Relation,9h-11h,Saturday,32,Engagement intermédiaire
+texte+lien+photo,Identite,14h-17h,Tuesday,31,Engagement intermédiaire
+texte+video,Identite,Avant 9h,Thursday,31,Engagement intermédiaire
+texte+photo,Identite,14h-17h,Tuesday,31,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Tuesday,31,Engagement intermédiaire
+texte+photo,Identite,9h-11h,Wednesday,31,Engagement intermédiaire
+texte+lien,Recherche,9h-11h,Thursday,31,Engagement intermédiaire
+texte+lien,Relation,11h-14h,Tuesday,31,Engagement intermédiaire
+texte+lien,Information,11h-14h,Thursday,31,Engagement intermédiaire
+texte+photo,Relation,Avant 9h,Thursday,29,Engagement intermédiaire
+texte+lien+photo,Identite,9h-11h,Wednesday,28,Engagement intermédiaire
+texte+video,Relation,17h-19h,Thursday,28,Engagement intermédiaire
+texte+video,Relation,Avant 9h,Friday,28,Engagement intermédiaire
+texte+lien+photo,Relation,9h-11h,Saturday,28,Engagement intermédiaire
+texte+video,Relation,Après 19h,Sunday,27,Engagement intermédiaire
+texte+video,Relation,14h-17h,Saturday,26,Engagement intermédiaire
+texte+lien,Information,11h-14h,Tuesday,26,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Thursday,26,Engagement intermédiaire
+texte+video,Identite,Après 19h,Thursday,26,Engagement intermédiaire
+texte+photo,Relation,17h-19h,Thursday,26,Engagement intermédiaire
+texte+lien+photo,Identite,9h-11h,Friday,26,Engagement intermédiaire
+texte,Identite,14h-17h,Thursday,26,Engagement intermédiaire
+texte+photo,Identite,17h-19h,Wednesday,26,Engagement intermédiaire
+texte,Identite,11h-14h,Tuesday,25,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Friday,25,Engagement intermédiaire
+texte+lien+video,Identite,17h-19h,Friday,25,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Thursday,25,Engagement intermédiaire
+texte+video,Identite,Après 19h,Thursday,25,Engagement intermédiaire
+texte+lien,Administration,Avant 9h,Friday,25,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Tuesday,25,Engagement intermédiaire
+texte+lien,Administration,11h-14h,Friday,25,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Sunday,25,Engagement intermédiaire
+texte+video,Identite,14h-17h,Thursday,25,Engagement intermédiaire
+texte+lien,Information,11h-14h,Friday,24,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Thursday,24,Engagement intermédiaire
+texte+photo,Relation,17h-19h,Saturday,24,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Friday,24,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Friday,24,Engagement intermédiaire
+texte+video,Relation,17h-19h,Monday,24,Engagement intermédiaire
+texte,Identite,Avant 9h,Tuesday,23,Engagement intermédiaire
+texte+video,Identite,Après 19h,Thursday,23,Engagement intermédiaire
+texte+lien,Information,17h-19h,Monday,23,Engagement intermédiaire
+texte+lien,Administration,Après 19h,Monday,23,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Sunday,23,Engagement intermédiaire
+texte,Identite,Avant 9h,Wednesday,22,Engagement intermédiaire
+texte,Identite,11h-14h,Thursday,22,Engagement intermédiaire
+texte+lien,Identite,Après 19h,Friday,22,Engagement intermédiaire
+texte+lien,Identite,Après 19h,Tuesday,22,Engagement intermédiaire
+texte+video,Identite,9h-11h,Friday,22,Engagement intermédiaire
+texte+photo,Relation,Avant 9h,Sunday,22,Engagement intermédiaire
+texte+photo,Identite,Avant 9h,Friday,21,Engagement intermédiaire
+texte+lien,Information,17h-19h,Wednesday,21,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Monday,21,Engagement intermédiaire
+texte+lien+photo,Identite,14h-17h,Wednesday,21,Engagement intermédiaire
+texte+lien,Relation,Avant 9h,Tuesday,21,Engagement intermédiaire
+texte+lien,Identite,9h-11h,Sunday,21,Engagement intermédiaire
+texte+lien+photo,Information,17h-19h,Saturday,21,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Friday,21,Engagement intermédiaire
+texte+lien+photo,Information,11h-14h,Saturday,21,Engagement intermédiaire
+texte,Identite,11h-14h,Thursday,19,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Saturday,19,Engagement intermédiaire
+texte+lien,Information,11h-14h,Tuesday,19,Engagement intermédiaire
+texte+photo,Identite,14h-17h,Monday,19,Engagement intermédiaire
+texte+photo,Identite,17h-19h,Friday,19,Engagement intermédiaire
+texte+lien,Information,Après 19h,Friday,19,Engagement intermédiaire
+texte+photo,Identite,14h-17h,Sunday,19,Engagement intermédiaire
+texte+lien+photo,Identite,17h-19h,Wednesday,19,Engagement intermédiaire
+texte+photo,Identite,Avant 9h,Thursday,19,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Monday,19,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Thursday,19,Engagement intermédiaire
+texte+lien+photo,Identite,17h-19h,Thursday,19,Engagement intermédiaire
+texte+video,Identite,Avant 9h,Monday,19,Engagement intermédiaire
+texte+lien,Education,14h-17h,Friday,19,Engagement intermédiaire
+texte+video,Information,9h-11h,Wednesday,19,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Friday,19,Engagement intermédiaire
+texte+lien+photo,Identite,14h-17h,Wednesday,19,Engagement intermédiaire
+texte+photo,Identite,17h-19h,Tuesday,18,Engagement intermédiaire
+texte+photo,Identite,Avant 9h,Wednesday,18,Engagement intermédiaire
+texte+lien,Identite,Après 19h,Monday,18,Engagement intermédiaire
+texte+lien+photo,Identite,14h-17h,Tuesday,18,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Monday,17,Engagement intermédiaire
+texte+video,Relation,11h-14h,Saturday,17,Engagement intermédiaire
+texte+lien+video,Identite,14h-17h,Tuesday,17,Engagement intermédiaire
+texte,Identite,Avant 9h,Wednesday,17,Engagement intermédiaire
+texte+lien,Administration,Après 19h,Sunday,17,Engagement intermédiaire
+texte+video,Identite,Avant 9h,Saturday,17,Engagement intermédiaire
+texte+lien+video,Identite,17h-19h,Wednesday,17,Engagement intermédiaire
+texte+lien+photo,Identite,17h-19h,Saturday,17,Engagement intermédiaire
+texte+photo,Identite,11h-14h,Thursday,17,Engagement intermédiaire
+texte+video,Identite,9h-11h,Tuesday,17,Engagement intermédiaire
+texte+lien,Administration,Avant 9h,Wednesday,17,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Monday,17,Engagement intermédiaire
+texte,Identite,11h-14h,Tuesday,16,Engagement intermédiaire
+texte+photo,Identite,14h-17h,Tuesday,16,Engagement intermédiaire
+texte+photo,Identite,17h-19h,Tuesday,16,Engagement intermédiaire
+texte+lien+photo,Administration,9h-11h,Saturday,16,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Monday,16,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Wednesday,16,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Tuesday,16,Engagement intermédiaire
+texte+lien,Information,11h-14h,Saturday,16,Engagement intermédiaire
+texte+lien,Information,Avant 9h,Tuesday,16,Engagement intermédiaire
+texte+photo,Identite,Avant 9h,Wednesday,16,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Saturday,16,Engagement intermédiaire
+texte+lien+photo,Information,11h-14h,Friday,16,Engagement intermédiaire
+texte+photo,Identite,Avant 9h,Tuesday,15,Engagement intermédiaire
+texte+lien+photo,Relation,14h-17h,Friday,15,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Monday,15,Engagement intermédiaire
+texte,Identite,Avant 9h,Wednesday,15,Engagement intermédiaire
+texte+lien,Identite,Après 19h,Saturday,15,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Tuesday,15,Engagement intermédiaire
+texte+video,Identite,14h-17h,Saturday,15,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Wednesday,15,Engagement intermédiaire
+texte,Identite,17h-19h,Tuesday,15,Engagement intermédiaire
+texte,Identite,Après 19h,Tuesday,15,Engagement intermédiaire
+texte+lien+photo,Information,11h-14h,Friday,15,Engagement intermédiaire
+texte+lien,Information,11h-14h,Tuesday,14,Engagement intermédiaire
+texte+lien,Identite,Après 19h,Tuesday,14,Engagement intermédiaire
+texte,Identite,11h-14h,Tuesday,14,Engagement intermédiaire
+texte,Identite,11h-14h,Tuesday,14,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Wednesday,14,Engagement intermédiaire
+texte+lien,Education,17h-19h,Wednesday,14,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Thursday,14,Engagement intermédiaire
+texte,Administration,17h-19h,Wednesday,14,Engagement intermédiaire
+texte,Identite,Avant 9h,Wednesday,14,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Wednesday,14,Engagement intermédiaire
+texte+lien+photo,Identite,9h-11h,Tuesday,14,Engagement intermédiaire
+texte,Identite,14h-17h,Thursday,14,Engagement intermédiaire
+texte+lien,Relation,17h-19h,Friday,14,Engagement intermédiaire
+texte+lien,Identite,9h-11h,Wednesday,14,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Thursday,14,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Thursday,14,Engagement intermédiaire
+texte+photo,Identite,14h-17h,Thursday,14,Engagement intermédiaire
+texte+lien+video,Identite,Avant 9h,Thursday,14,Engagement intermédiaire
+texte,Identite,11h-14h,Thursday,13,Engagement intermédiaire
+texte+lien,Information,11h-14h,Tuesday,13,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Tuesday,13,Engagement intermédiaire
+texte,Identite,11h-14h,Thursday,13,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Saturday,13,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Monday,13,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Wednesday,13,Engagement intermédiaire
+texte+photo,Identite,17h-19h,Saturday,13,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Monday,13,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Monday,13,Engagement intermédiaire
+texte+lien+video,Relation,Avant 9h,Friday,13,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Tuesday,13,Engagement intermédiaire
+texte+photo,Relation,Avant 9h,Friday,13,Engagement intermédiaire
+texte,Identite,Après 19h,Wednesday,13,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Wednesday,13,Engagement intermédiaire
+texte+lien,Information,14h-17h,Wednesday,12,Engagement intermédiaire
+texte+lien+video,Identite,11h-14h,Tuesday,12,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Tuesday,12,Engagement intermédiaire
+texte,Identite,11h-14h,Tuesday,12,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Monday,12,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Tuesday,12,Engagement intermédiaire
+texte+video,Identite,9h-11h,Thursday,12,Engagement intermédiaire
+texte+video,Identite,Avant 9h,Monday,12,Engagement intermédiaire
+texte+lien+photo,Identite,17h-19h,Thursday,12,Engagement intermédiaire
+texte+lien,Information,14h-17h,Saturday,12,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Tuesday,12,Engagement intermédiaire
+texte+lien+photo,Identite,14h-17h,Wednesday,12,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Sunday,12,Engagement intermédiaire
+texte+lien,Information,11h-14h,Tuesday,11,Engagement intermédiaire
+texte,Identite,Après 19h,Wednesday,11,Engagement intermédiaire
+texte,Identite,Avant 9h,Thursday,11,Engagement intermédiaire
+texte+lien,Information,11h-14h,Tuesday,11,Engagement intermédiaire
+texte+lien,Identite,9h-11h,Wednesday,11,Engagement intermédiaire
+texte+lien+photo,Identite,9h-11h,Friday,11,Engagement intermédiaire
+texte+photo,Identite,14h-17h,Wednesday,11,Engagement intermédiaire
+texte+lien,Information,11h-14h,Thursday,11,Engagement intermédiaire
+texte+lien,Information,11h-14h,Thursday,11,Engagement intermédiaire
+texte,Identite,11h-14h,Thursday,11,Engagement intermédiaire
+texte+photo,Identite,17h-19h,Monday,11,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Thursday,11,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Saturday,11,Engagement intermédiaire
+texte+photo,Identite,17h-19h,Thursday,11,Engagement intermédiaire
+texte+lien,Administration,Avant 9h,Wednesday,11,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Sunday,11,Engagement intermédiaire
+texte+lien,Recherche,17h-19h,Tuesday,11,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Saturday,11,Engagement intermédiaire
+texte+lien,Information,14h-17h,Wednesday,11,Engagement intermédiaire
+texte+lien+video,Identite,11h-14h,Friday,11,Engagement intermédiaire
+texte+video,Information,14h-17h,Friday,11,Engagement intermédiaire
+texte+lien+video,Identite,Avant 9h,Wednesday,11,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Friday,11,Engagement intermédiaire
+texte+lien+photo,Identite,14h-17h,Monday,11,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Wednesday,11,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Thursday,11,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Friday,11,Engagement intermédiaire
+texte+lien+photo,Identite,9h-11h,Tuesday,11,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Friday,11,Engagement intermédiaire
+texte+lien+photo,Education,Avant 9h,Tuesday,11,Engagement intermédiaire
+texte,Administration,Après 19h,Friday,11,Engagement intermédiaire
+texte+lien+photo,Identite,14h-17h,Wednesday,11,Engagement intermédiaire
+texte+photo,Information,Après 19h,Thursday,11,Engagement intermédiaire
+texte+lien+photo,Identite,14h-17h,Friday,11,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Tuesday,11,Engagement intermédiaire
+texte+lien,Information,11h-14h,Tuesday,9,Engagement intermédiaire
+texte+lien,Information,11h-14h,Thursday,9,Engagement intermédiaire
+texte+lien+photo,Identite,Après 19h,Sunday,9,Engagement intermédiaire
+texte+photo,Identite,11h-14h,Tuesday,9,Engagement intermédiaire
+texte+lien,Identite,9h-11h,Friday,9,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Monday,9,Engagement intermédiaire
+texte,Identite,11h-14h,Thursday,9,Engagement intermédiaire
+texte+lien,Information,11h-14h,Thursday,9,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Friday,9,Engagement intermédiaire
+texte+photo,Identite,17h-19h,Tuesday,9,Engagement intermédiaire
+texte+photo,Education,Avant 9h,Thursday,9,Engagement intermédiaire
+texte+lien,Relation,Avant 9h,Friday,9,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Monday,9,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Monday,9,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Wednesday,9,Engagement intermédiaire
+texte+video,Identite,9h-11h,Monday,9,Engagement intermédiaire
+texte+lien,Identite,14h-17h,Monday,9,Engagement intermédiaire
+texte+lien,Information,Avant 9h,Friday,9,Engagement intermédiaire
+texte+video,Relation,17h-19h,Saturday,9,Engagement intermédiaire
+texte+photo,Identite,17h-19h,Wednesday,9,Engagement intermédiaire
+texte+lien+photo,Relation,17h-19h,Saturday,9,Engagement intermédiaire
+texte+video,Information,17h-19h,Wednesday,9,Engagement intermédiaire
+texte+lien+photo,Administration,11h-14h,Tuesday,9,Engagement intermédiaire
+texte+lien+photo,Identite,9h-11h,Tuesday,9,Engagement intermédiaire
+texte,Identite,11h-14h,Tuesday,8,Engagement intermédiaire
+texte+lien+photo,Identite,Avant 9h,Friday,8,Engagement intermédiaire
+texte+video,Identite,17h-19h,Friday,8,Engagement intermédiaire
+texte+photo,Identite,Après 19h,Friday,8,Engagement intermédiaire
+texte+photo,Information,14h-17h,Monday,8,Engagement intermédiaire
+texte+photo,Relation,Avant 9h,Thursday,8,Engagement intermédiaire
+texte+lien+photo,Identite,14h-17h,Monday,8,Engagement intermédiaire
+texte,Identite,11h-14h,Tuesday,8,Engagement intermédiaire
+texte+lien,Information,11h-14h,Thursday,8,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Tuesday,8,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Tuesday,8,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Sunday,8,Engagement intermédiaire
+texte+lien,Identite,Avant 9h,Monday,8,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Monday,8,Engagement intermédiaire
+texte+lien,Identite,11h-14h,Tuesday,8,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Wednesday,8,Engagement intermédiaire
+texte+lien,Identite,9h-11h,Thursday,8,Engagement intermédiaire
+texte+video,Identite,17h-19h,Wednesday,8,Engagement intermédiaire
+texte+photo,Administration,9h-11h,Wednesday,8,Engagement intermédiaire
+texte+video,Identite,14h-17h,Wednesday,8,Engagement intermédiaire
+texte+lien,Identite,17h-19h,Tuesday,8,Engagement intermédiaire
+texte+photo,Identite,11h-14h,Tuesday,8,Engagement intermédiaire
+texte+photo,Relation,Après 19h,Thursday,8,Engagement intermédiaire
+texte+photo,Relation,Avant 9h,Friday,8,Engagement intermédiaire
+texte+photo,Information,Après 19h,Thursday,8,Engagement intermédiaire
+texte+lien+photo,Identite,17h-19h,Thursday,8,Engagement intermédiaire
+texte+video,Information,11h-14h,Friday,8,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Sunday,8,Engagement intermédiaire
+texte+lien+photo,Identite,9h-11h,Thursday,8,Engagement intermédiaire
+texte+lien+photo,Identite,11h-14h,Friday,8,Engagement intermédiaire
+texte,Identite,11h-14h,Tuesday,7,engagement faible
+texte+lien,Information,11h-14h,Tuesday,7,engagement faible
+texte+lien,Identite,Après 19h,Tuesday,7,engagement faible
+texte+lien,Information,11h-14h,Thursday,7,engagement faible
+texte+lien+photo,Identite,Avant 9h,Monday,7,engagement faible
+texte+lien+photo,Information,11h-14h,Tuesday,7,engagement faible
+texte+lien,Information,11h-14h,Tuesday,7,engagement faible
+texte+lien+photo,Identite,14h-17h,Monday,7,engagement faible
+texte+lien,Information,11h-14h,Tuesday,7,engagement faible
+texte,Identite,11h-14h,Thursday,7,engagement faible
+texte,Identite,11h-14h,Thursday,7,engagement faible
+texte,Identite,11h-14h,Thursday,7,engagement faible
+texte+lien+photo,Administration,11h-14h,Friday,7,engagement faible
+texte+lien,Identite,17h-19h,Friday,7,engagement faible
+texte+lien,Identite,17h-19h,Monday,7,engagement faible
+texte+photo,Identite,Avant 9h,Wednesday,7,engagement faible
+texte+lien,Identite,11h-14h,Friday,7,engagement faible
+texte+lien,Identite,11h-14h,Monday,7,engagement faible
+texte+photo,Identite,Après 19h,Wednesday,7,engagement faible
+texte+lien,Identite,Avant 9h,Monday,7,engagement faible
+texte+lien,Identite,14h-17h,Monday,7,engagement faible
+texte+lien,Identite,14h-17h,Sunday,7,engagement faible
+texte+video,Identite,9h-11h,Monday,7,engagement faible
+texte+video,Identite,11h-14h,Wednesday,7,engagement faible
+texte+lien+photo,Identite,9h-11h,Friday,7,engagement faible
+texte+lien+photo,Administration,14h-17h,Tuesday,7,engagement faible
+texte+lien,Identite,11h-14h,Monday,7,engagement faible
+texte+photo,Identite,11h-14h,Wednesday,7,engagement faible
+texte+lien+photo,Identite,17h-19h,Sunday,7,engagement faible
+texte+photo,Relation,Avant 9h,Tuesday,7,engagement faible
+texte+photo,Relation,11h-14h,Saturday,7,engagement faible
+texte+photo,Administration,14h-17h,Sunday,7,engagement faible
+texte+lien+photo,Identite,14h-17h,Friday,7,engagement faible
+texte+lien+photo,Identite,9h-11h,Monday,7,engagement faible
+texte+lien+photo,Identite,14h-17h,Thursday,7,engagement faible
+texte+lien+photo,Identite,11h-14h,Saturday,7,engagement faible
+texte+lien+photo,Identite,14h-17h,Sunday,7,engagement faible
+texte+lien+photo,Recherche,14h-17h,Wednesday,7,engagement faible
+texte+lien,Identite,Avant 9h,Tuesday,6,engagement faible
+texte,Identite,11h-14h,Tuesday,6,engagement faible
+texte+lien,Information,11h-14h,Tuesday,6,engagement faible
+texte+lien,Identite,Avant 9h,Wednesday,6,engagement faible
+texte,Identite,11h-14h,Thursday,6,engagement faible
+texte+lien,Information,11h-14h,Thursday,6,engagement faible
+texte+photo,Identite,Avant 9h,Friday,6,engagement faible
+texte+lien,Identite,Après 19h,Sunday,6,engagement faible
+texte+lien,Identite,Avant 9h,Tuesday,6,engagement faible
+texte,Identite,11h-14h,Tuesday,6,engagement faible
+texte,Identite,11h-14h,Tuesday,6,engagement faible
+texte+lien+photo,Identite,17h-19h,Tuesday,6,engagement faible
+texte,Identite,11h-14h,Tuesday,6,engagement faible
+texte+lien,Information,11h-14h,Thursday,6,engagement faible
+texte+lien,Identite,11h-14h,Thursday,6,engagement faible
+texte+lien,Identite,Après 19h,Tuesday,6,engagement faible
+texte+lien,Identite,11h-14h,Wednesday,6,engagement faible
+texte+lien,Identite,14h-17h,Thursday,6,engagement faible
+texte+lien,Identite,11h-14h,Friday,6,engagement faible
+texte+photo,Identite,14h-17h,Sunday,6,engagement faible
+texte+lien,Identite,17h-19h,Tuesday,6,engagement faible
+texte+lien,Identite,14h-17h,Thursday,6,engagement faible
+texte+lien+photo,Identite,17h-19h,Tuesday,6,engagement faible
+texte+lien,Identite,17h-19h,Monday,6,engagement faible
+texte+lien,Identite,11h-14h,Thursday,6,engagement faible
+texte+lien+video,Identite,14h-17h,Tuesday,6,engagement faible
+texte+lien+photo,Identite,11h-14h,Thursday,6,engagement faible
+texte+lien,Identite,11h-14h,Tuesday,6,engagement faible
+texte+photo,Identite,Avant 9h,Thursday,6,engagement faible
+texte+lien+photo,Identite,14h-17h,Monday,6,engagement faible
+texte+lien+photo,Identite,Avant 9h,Saturday,6,engagement faible
+texte+lien+photo,Identite,Après 19h,Monday,6,engagement faible
+texte+lien,Information,11h-14h,Thursday,6,engagement faible
+texte+lien+photo,Identite,9h-11h,Wednesday,6,engagement faible
+texte+lien+photo,Education,Après 19h,Wednesday,6,engagement faible
+texte+lien+photo,Identite,11h-14h,Saturday,6,engagement faible
+texte+photo,Relation,11h-14h,Wednesday,6,engagement faible
+texte+photo,Information,Après 19h,Thursday,6,engagement faible
+texte+lien+photo,Administration,17h-19h,Thursday,6,engagement faible
+texte+lien+photo,Identite,9h-11h,Sunday,6,engagement faible
+texte+lien+photo,Identite,11h-14h,Wednesday,6,engagement faible
+texte+lien+photo,Identite,14h-17h,Monday,6,engagement faible
+texte+lien,Information,11h-14h,Tuesday,5,engagement faible
+texte+lien,Identite,14h-17h,Tuesday,5,engagement faible
+texte+photo,Identite,Après 19h,Tuesday,5,engagement faible
+texte+photo,Identite,Après 19h,Tuesday,5,engagement faible
+texte+lien+photo,Identite,Avant 9h,Thursday,5,engagement faible
+texte,Identite,11h-14h,Thursday,5,engagement faible
+texte+lien,Information,11h-14h,Tuesday,5,engagement faible
+texte+video,Identite,Avant 9h,Thursday,5,engagement faible
+texte+lien+photo,Identite,Avant 9h,Monday,5,engagement faible
+texte+photo,Identite,11h-14h,Tuesday,5,engagement faible
+texte,Identite,11h-14h,Tuesday,5,engagement faible
+texte,Identite,11h-14h,Tuesday,5,engagement faible
+texte+lien,Identite,11h-14h,Tuesday,5,engagement faible
+texte+lien,Identite,17h-19h,Wednesday,5,engagement faible
+texte+lien,Identite,17h-19h,Friday,5,engagement faible
+texte+photo,Identite,17h-19h,Wednesday,5,engagement faible
+texte+lien,Identite,Après 19h,Monday,5,engagement faible
+texte+lien+video,Identite,11h-14h,Wednesday,5,engagement faible
+texte+lien+photo,Identite,14h-17h,Thursday,5,engagement faible
+texte+photo,Identite,17h-19h,Monday,5,engagement faible
+texte+lien,Identite,14h-17h,Thursday,5,engagement faible
+texte+lien,Identite,Avant 9h,Monday,5,engagement faible
+texte+lien,Identite,Avant 9h,Wednesday,5,engagement faible
+texte+photo,Identite,Après 19h,Wednesday,5,engagement faible
+texte+lien,Information,17h-19h,Thursday,5,engagement faible
+texte+photo,Identite,Avant 9h,Monday,5,engagement faible
+texte+lien,Identite,17h-19h,Tuesday,5,engagement faible
+texte+lien+photo,Identite,9h-11h,Thursday,5,engagement faible
+texte+lien+photo,Identite,17h-19h,Saturday,5,engagement faible
+texte+lien+photo,Identite,14h-17h,Thursday,5,engagement faible
+texte+lien,Identite,17h-19h,Monday,5,engagement faible
+texte+lien,Identite,11h-14h,Friday,5,engagement faible
+texte+lien+photo,Identite,11h-14h,Sunday,5,engagement faible
+texte+lien+photo,Identite,17h-19h,Wednesday,5,engagement faible
+texte+photo,Relation,Après 19h,Saturday,5,engagement faible
+texte+photo,Identite,17h-19h,Wednesday,5,engagement faible
+texte+lien+photo,Identite,14h-17h,Wednesday,5,engagement faible
+texte+lien+photo,Information,17h-19h,Tuesday,5,engagement faible
+texte+lien+photo,Identite,11h-14h,Sunday,5,engagement faible
+texte+lien+photo,Administration,14h-17h,Wednesday,5,engagement faible
+texte+lien+photo,Identite,Avant 9h,Tuesday,5,engagement faible
+texte+lien+photo,Identite,14h-17h,Wednesday,5,engagement faible
+texte+lien,Information,11h-14h,Tuesday,4,engagement faible
+texte+lien,Information,11h-14h,Tuesday,4,engagement faible
+texte+photo,Identite,Après 19h,Tuesday,4,engagement faible
+texte+lien,Identite,Après 19h,Tuesday,4,engagement faible
+texte+lien,Identite,Avant 9h,Wednesday,4,engagement faible
+texte+lien,Identite,Avant 9h,Wednesday,4,engagement faible
+texte+lien,Identite,Avant 9h,Wednesday,4,engagement faible
+texte+lien,Identite,11h-14h,Wednesday,4,engagement faible
+texte,Identite,11h-14h,Wednesday,4,engagement faible
+texte+lien,Identite,Avant 9h,Thursday,4,engagement faible
+texte+lien,Information,Avant 9h,Friday,4,engagement faible
+texte+lien,Information,Avant 9h,Friday,4,engagement faible
+texte+photo,Identite,17h-19h,Friday,4,engagement faible
+texte+video,Identite,17h-19h,Friday,4,engagement faible
+texte+lien,Information,11h-14h,Tuesday,4,engagement faible
+texte+photo,Identite,Avant 9h,Thursday,4,engagement faible
+texte+lien+video,Identite,9h-11h,Thursday,4,engagement faible
+texte+lien+photo,Identite,11h-14h,Thursday,4,engagement faible
+texte,Identite,Avant 9h,Sunday,4,engagement faible
+texte+lien,Identite,Après 19h,Tuesday,4,engagement faible
+texte+lien,Identite,11h-14h,Wednesday,4,engagement faible
+texte+photo,Identite,Après 19h,Wednesday,4,engagement faible
+texte+photo,Identite,17h-19h,Monday,4,engagement faible
+texte+photo,Identite,Après 19h,Tuesday,4,engagement faible
+texte+lien,Information,17h-19h,Wednesday,4,engagement faible
+texte+lien,Identite,14h-17h,Thursday,4,engagement faible
+texte+photo,Identite,17h-19h,Monday,4,engagement faible
+texte+lien,Identite,17h-19h,Wednesday,4,engagement faible
+texte+lien+photo,Identite,17h-19h,Thursday,4,engagement faible
+texte+lien,Identite,Après 19h,Thursday,4,engagement faible
+texte+lien,Identite,17h-19h,Monday,4,engagement faible
+texte+lien,Identite,11h-14h,Tuesday,4,engagement faible
+texte+lien,Identite,14h-17h,Sunday,4,engagement faible
+texte+lien,Information,11h-14h,Thursday,4,engagement faible
+texte+video,Identite,14h-17h,Monday,4,engagement faible
+texte+lien,Identite,Avant 9h,Friday,4,engagement faible
+texte+lien,Identite,Avant 9h,Sunday,4,engagement faible
+texte+lien,Identite,Avant 9h,Tuesday,4,engagement faible
+texte+lien+photo,Administration,Après 19h,Tuesday,4,engagement faible
+texte+lien+photo,Identite,Avant 9h,Tuesday,4,engagement faible
+texte+photo,Information,Après 19h,Thursday,4,engagement faible
+texte+photo,Relation,9h-11h,Saturday,4,engagement faible
+texte+video,Identite,17h-19h,Sunday,4,engagement faible
+texte+lien+video,Identite,11h-14h,Tuesday,4,engagement faible
+texte,Identite,Après 19h,Thursday,4,engagement faible
+texte+photo,Information,Après 19h,Thursday,4,engagement faible
+texte+lien+photo,Information,9h-11h,Wednesday,4,engagement faible
+texte+lien+photo,Identite,17h-19h,Thursday,4,engagement faible
+texte+lien+photo,Identite,14h-17h,Friday,4,engagement faible
+texte+lien+photo,Information,17h-19h,Friday,4,engagement faible
+texte+lien+photo,Identite,11h-14h,Tuesday,4,engagement faible
+texte+lien+photo,Identite,17h-19h,Wednesday,4,engagement faible
+texte+lien+photo,Identite,17h-19h,Monday,4,engagement faible
+texte+lien+photo,Identite,17h-19h,Thursday,4,engagement faible
+texte+lien+photo,Information,17h-19h,Tuesday,4,engagement faible
+texte+lien+photo,Recherche,14h-17h,Thursday,4,engagement faible
+texte+lien+photo,Identite,14h-17h,Thursday,4,engagement faible
+texte+lien+photo,Identite,Avant 9h,Monday,4,engagement faible
+texte+lien+photo,Identite,14h-17h,Sunday,4,engagement faible
+texte+lien+photo,Identite,11h-14h,Friday,4,engagement faible
+texte,Identite,17h-19h,Tuesday,3,engagement faible
+texte,Identite,Après 19h,Tuesday,3,engagement faible
+texte+lien,Information,Après 19h,Tuesday,3,engagement faible
+texte+lien,Identite,Après 19h,Tuesday,3,engagement faible
+texte+lien,Identite,Avant 9h,Wednesday,3,engagement faible
+texte+lien,Identite,Avant 9h,Wednesday,3,engagement faible
+texte+lien,Identite,Avant 9h,Wednesday,3,engagement faible
+texte+lien,Identite,Avant 9h,Wednesday,3,engagement faible
+texte,Identite,Avant 9h,Wednesday,3,engagement faible
+texte,Identite,Avant 9h,Wednesday,3,engagement faible
+texte,Identite,11h-14h,Wednesday,3,engagement faible
+texte+lien,Identite,Après 19h,Wednesday,3,engagement faible
+texte+lien,Identite,Après 19h,Wednesday,3,engagement faible
+texte+lien,Information,11h-14h,Thursday,3,engagement faible
+texte,Identite,Avant 9h,Friday,3,engagement faible
+texte+lien,Information,Avant 9h,Friday,3,engagement faible
+texte+lien,Identite,17h-19h,Friday,3,engagement faible
+texte+photo,Identite,17h-19h,Friday,3,engagement faible
+texte+lien,Identite,9h-11h,Saturday,3,engagement faible
+texte+lien,Information,Après 19h,Sunday,3,engagement faible
+texte+lien+photo,Identite,Après 19h,Sunday,3,engagement faible
+texte+photo,Identite,9h-11h,Monday,3,engagement faible
+texte+photo,Information,Avant 9h,Tuesday,3,engagement faible
+texte+lien,Identite,Avant 9h,Tuesday,3,engagement faible
+texte+lien,Information,11h-14h,Tuesday,3,engagement faible
+texte+lien,Information,11h-14h,Tuesday,3,engagement faible
+texte+lien+photo,Identite,17h-19h,Tuesday,3,engagement faible
+texte+lien+photo,Identite,9h-11h,Wednesday,3,engagement faible
+texte+lien+photo,Identite,11h-14h,Tuesday,3,engagement faible
+texte+video,Identite,11h-14h,Tuesday,3,engagement faible
+texte+photo,Relation,17h-19h,Monday,3,engagement faible
+texte+lien,Information,14h-17h,Tuesday,3,engagement faible
+texte+lien,Identite,Avant 9h,Wednesday,3,engagement faible
+texte+lien,Identite,11h-14h,Friday,3,engagement faible
+texte+lien,Identite,9h-11h,Wednesday,3,engagement faible
+texte+lien,Identite,17h-19h,Wednesday,3,engagement faible
+texte+photo,Identite,17h-19h,Wednesday,3,engagement faible
+texte+lien,Identite,17h-19h,Monday,3,engagement faible
+texte+photo,Identite,Après 19h,Tuesday,3,engagement faible
+texte+lien,Identite,17h-19h,Wednesday,3,engagement faible
+texte+lien,Identite,Avant 9h,Friday,3,engagement faible
+texte+lien,Information,Avant 9h,Saturday,3,engagement faible
+texte+lien,Identite,14h-17h,Friday,3,engagement faible
+texte+lien,Administration,11h-14h,Monday,3,engagement faible
+texte+lien,Information,11h-14h,Thursday,3,engagement faible
+texte+video,Identite,14h-17h,Thursday,3,engagement faible
+texte+lien+photo,Information,Après 19h,Thursday,3,engagement faible
+texte+lien+photo,Identite,14h-17h,Friday,3,engagement faible
+texte+lien+photo,Relation,Avant 9h,Thursday,3,engagement faible
+texte+photo,Identite,17h-19h,Thursday,3,engagement faible
+texte+lien,Identite,9h-11h,Friday,3,engagement faible
+texte+lien+photo,Identite,Avant 9h,Thursday,3,engagement faible
+texte+photo,Identite,11h-14h,Thursday,3,engagement faible
+texte+lien+photo,Identite,14h-17h,Thursday,3,engagement faible
+texte+lien+photo,Identite,9h-11h,Saturday,3,engagement faible
+texte+lien+photo,Identite,17h-19h,Saturday,3,engagement faible
+texte,Identite,17h-19h,Tuesday,3,engagement faible
+texte,Identite,17h-19h,Tuesday,3,engagement faible
+texte,Identite,Après 19h,Tuesday,3,engagement faible
+texte+lien+photo,Administration,17h-19h,Wednesday,3,engagement faible
+texte+lien+photo,Identite,11h-14h,Wednesday,3,engagement faible
+texte+lien+photo,Identite,11h-14h,Tuesday,3,engagement faible
+texte+lien+photo,Identite,11h-14h,Wednesday,3,engagement faible
+texte+lien+photo,Administration,11h-14h,Friday,3,engagement faible
+texte+lien+photo,Identite,9h-11h,Wednesday,3,engagement faible
+texte+lien+photo,Identite,11h-14h,Wednesday,3,engagement faible
+texte+lien+photo,Identite,11h-14h,Wednesday,3,engagement faible
+texte+lien+photo,Identite,14h-17h,Monday,3,engagement faible
+texte+lien+photo,Identite,11h-14h,Tuesday,3,engagement faible
+texte+lien+photo,Identite,11h-14h,Tuesday,3,engagement faible
+texte+lien+photo,Identite,Avant 9h,Wednesday,3,engagement faible
+texte+lien,Relation,9h-11h,Monday,3,engagement faible
+texte+lien+photo,Identite,9h-11h,Monday,3,engagement faible
+texte+lien,Identite,14h-17h,Monday,3,engagement faible
+texte+lien+photo,Identite,14h-17h,Thursday,3,engagement faible
+texte+lien+photo,Identite,14h-17h,Wednesday,3,engagement faible
+texte+lien+photo,Information,Avant 9h,Tuesday,2,pas d'engagement
+texte+lien,Information,11h-14h,Tuesday,2,pas d'engagement
+texte,Identite,Après 19h,Tuesday,2,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte+photo,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte+lien,Identite,11h-14h,Wednesday,2,pas d'engagement
+texte,Identite,11h-14h,Wednesday,2,pas d'engagement
+texte,Identite,Après 19h,Wednesday,2,pas d'engagement
+texte+lien,Information,11h-14h,Thursday,2,pas d'engagement
+texte+lien,Information,11h-14h,Thursday,2,pas d'engagement
+texte,Administration,11h-14h,Thursday,2,pas d'engagement
+texte+lien,Information,17h-19h,Friday,2,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Saturday,2,pas d'engagement
+texte+lien+photo,Identite,17h-19h,Saturday,2,pas d'engagement
+texte+lien+photo,Identite,17h-19h,Saturday,2,pas d'engagement
+texte+lien,Identite,Avant 9h,Tuesday,2,pas d'engagement
+texte+video,Relation,11h-14h,Tuesday,2,pas d'engagement
+texte+video,Relation,11h-14h,Tuesday,2,pas d'engagement
+texte+video,Information,11h-14h,Tuesday,2,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Monday,2,pas d'engagement
+texte+photo,Identite,14h-17h,Monday,2,pas d'engagement
+texte+lien+video,Identite,14h-17h,Monday,2,pas d'engagement
+texte+lien,Identite,14h-17h,Monday,2,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Monday,2,pas d'engagement
+texte+lien,Education,14h-17h,Monday,2,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Monday,2,pas d'engagement
+texte+photo,Identite,11h-14h,Tuesday,2,pas d'engagement
+texte+lien+video,Identite,11h-14h,Tuesday,2,pas d'engagement
+texte,Identite,11h-14h,Tuesday,2,pas d'engagement
+texte+lien,Information,11h-14h,Tuesday,2,pas d'engagement
+texte+lien,Information,11h-14h,Tuesday,2,pas d'engagement
+texte,Identite,11h-14h,Tuesday,2,pas d'engagement
+texte+lien,Identite,9h-11h,Wednesday,2,pas d'engagement
+texte,Identite,17h-19h,Wednesday,2,pas d'engagement
+texte,Identite,11h-14h,Thursday,2,pas d'engagement
+texte+lien,Information,11h-14h,Thursday,2,pas d'engagement
+texte+lien,Identite,17h-19h,Friday,2,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Saturday,2,pas d'engagement
+texte+lien,Identite,14h-17h,Saturday,2,pas d'engagement
+texte+lien+photo,Identite,17h-19h,Monday,2,pas d'engagement
+texte+photo,Relation,14h-17h,Tuesday,2,pas d'engagement
+texte+lien,Administration,11h-14h,Wednesday,2,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,2,pas d'engagement
+texte+lien,Identite,14h-17h,Friday,2,pas d'engagement
+texte+lien,Identite,17h-19h,Wednesday,2,pas d'engagement
+texte+lien,Identite,Après 19h,Friday,2,pas d'engagement
+texte+lien,Identite,Avant 9h,Friday,2,pas d'engagement
+texte+photo,Identite,9h-11h,Friday,2,pas d'engagement
+texte+lien,Identite,17h-19h,Monday,2,pas d'engagement
+texte+lien,Identite,14h-17h,Tuesday,2,pas d'engagement
+texte+photo,Identite,17h-19h,Friday,2,pas d'engagement
+texte+lien,Identite,11h-14h,Tuesday,2,pas d'engagement
+texte+photo,Identite,14h-17h,Wednesday,2,pas d'engagement
+texte+lien,Identite,14h-17h,Thursday,2,pas d'engagement
+texte+photo,Identite,14h-17h,Friday,2,pas d'engagement
+texte+photo,Identite,17h-19h,Sunday,2,pas d'engagement
+texte+photo,Identite,9h-11h,Monday,2,pas d'engagement
+texte+lien,Education,Avant 9h,Tuesday,2,pas d'engagement
+texte+lien,Identite,17h-19h,Friday,2,pas d'engagement
+texte+lien,Identite,17h-19h,Sunday,2,pas d'engagement
+texte+photo,Identite,Après 19h,Monday,2,pas d'engagement
+texte+lien,Information,11h-14h,Saturday,2,pas d'engagement
+texte+lien,Identite,14h-17h,Sunday,2,pas d'engagement
+texte+lien,Information,Avant 9h,Friday,2,pas d'engagement
+texte+photo,Administration,Avant 9h,Tuesday,2,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,2,pas d'engagement
+texte+lien+photo,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte+photo,Identite,Avant 9h,Tuesday,2,pas d'engagement
+texte+photo,Identite,9h-11h,Monday,2,pas d'engagement
+texte,Identite,Après 19h,Tuesday,2,pas d'engagement
+texte,Identite,Après 19h,Tuesday,2,pas d'engagement
+texte+lien,Information,Après 19h,Thursday,2,pas d'engagement
+texte+photo,Education,14h-17h,Tuesday,2,pas d'engagement
+texte,Information,Après 19h,Thursday,2,pas d'engagement
+texte+photo,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte+video,Identite,14h-17h,Wednesday,2,pas d'engagement
+texte+lien+photo,Identite,Après 19h,Monday,2,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Tuesday,2,pas d'engagement
+texte+lien+photo,Identite,17h-19h,Tuesday,2,pas d'engagement
+texte+lien+photo,Identite,9h-11h,Wednesday,2,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,2,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Wednesday,2,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Tuesday,2,pas d'engagement
+texte+photo,Identite,11h-14h,Wednesday,2,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,2,pas d'engagement
+texte+lien+photo,Administration,11h-14h,Wednesday,2,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Sunday,2,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Monday,2,pas d'engagement
+texte+lien+photo,Relation,Avant 9h,Wednesday,2,pas d'engagement
+texte+lien+photo,Identite,Avant 9h,Wednesday,2,pas d'engagement
+texte+lien+photo,Identite,9h-11h,Friday,2,pas d'engagement
+texte+lien+photo,Information,14h-17h,Wednesday,2,pas d'engagement
+texte+lien,Information,11h-14h,Tuesday,1,pas d'engagement
+texte+lien,Identite,17h-19h,Tuesday,1,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,1,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,1,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,1,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,1,pas d'engagement
+texte,Identite,9h-11h,Wednesday,1,pas d'engagement
+texte,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte+lien,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte,Identite,9h-11h,Thursday,1,pas d'engagement
+texte+lien,Identite,9h-11h,Thursday,1,pas d'engagement
+texte,Identite,9h-11h,Thursday,1,pas d'engagement
+texte+lien,Information,11h-14h,Thursday,1,pas d'engagement
+texte+lien,Information,11h-14h,Thursday,1,pas d'engagement
+texte+lien,Information,11h-14h,Thursday,1,pas d'engagement
+texte,Identite,Après 19h,Friday,1,pas d'engagement
+texte+photo,Identite,9h-11h,Wednesday,1,pas d'engagement
+texte+photo,Administration,11h-14h,Wednesday,1,pas d'engagement
+texte+lien,Information,14h-17h,Thursday,1,pas d'engagement
+texte+lien+photo,Identite,9h-11h,Friday,1,pas d'engagement
+texte+photo,Identite,14h-17h,Monday,1,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Monday,1,pas d'engagement
+texte+lien,Identite,Avant 9h,Tuesday,1,pas d'engagement
+texte+photo,Identite,11h-14h,Tuesday,1,pas d'engagement
+texte,Information,11h-14h,Tuesday,1,pas d'engagement
+texte+lien,Information,11h-14h,Tuesday,1,pas d'engagement
+texte+lien,Information,11h-14h,Tuesday,1,pas d'engagement
+texte+lien,Information,11h-14h,Tuesday,1,pas d'engagement
+texte,Identite,14h-17h,Wednesday,1,pas d'engagement
+texte,Identite,14h-17h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Friday,1,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte+lien,Identite,Avant 9h,Wednesday,1,pas d'engagement
+texte+lien,Information,11h-14h,Friday,1,pas d'engagement
+texte+lien,Identite,Après 19h,Wednesday,1,pas d'engagement
+texte+lien,Information,11h-14h,Tuesday,1,pas d'engagement
+texte+photo,Identite,14h-17h,Monday,1,pas d'engagement
+texte+lien,Information,11h-14h,Tuesday,1,pas d'engagement
+texte+photo,Identite,11h-14h,Thursday,1,pas d'engagement
+texte+photo,Identite,Avant 9h,Friday,1,pas d'engagement
+texte+lien,Identite,14h-17h,Sunday,1,pas d'engagement
+texte+photo,Identite,Avant 9h,Monday,1,pas d'engagement
+texte+video,Identite,Avant 9h,Thursday,1,pas d'engagement
+texte+lien,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte,Identite,Après 19h,Tuesday,1,pas d'engagement
+texte,Identite,Après 19h,Tuesday,1,pas d'engagement
+texte,Identite,Avant 9h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Friday,1,pas d'engagement
+texte+lien+photo,Identite,Avant 9h,Wednesday,1,pas d'engagement
+texte,Administration,11h-14h,Monday,1,pas d'engagement
+texte+lien,Information,Avant 9h,Wednesday,1,pas d'engagement
+texte+photo,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,17h-19h,Wednesday,1,pas d'engagement
+texte+lien,Identite,11h-14h,Friday,1,pas d'engagement
+texte+lien+photo,Identite,Avant 9h,Monday,1,pas d'engagement
+texte+lien+photo,Identite,Après 19h,Monday,1,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,11h-14h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Wednesday,1,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Wednesday,1,pas d'engagement
+texte+lien+photo,Education,14h-17h,Monday,1,pas d'engagement
+texte+lien+photo,Information,17h-19h,Thursday,1,pas d'engagement
+texte+lien+photo,Identite,9h-11h,Sunday,1,pas d'engagement
+texte+lien+photo,Identite,14h-17h,Sunday,1,pas d'engagement
